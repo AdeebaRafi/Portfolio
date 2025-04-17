@@ -1,45 +1,9 @@
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
+  background: #f9f9f9;
   margin: 0;
   padding: 0;
-  background: #f9f9f9;
   color: #333;
-}
-
-header.hero {
-  background: #fff;
-  padding: 40px 0;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
-
-.hero-content {
-  display: flex;
-  align-items: center;
-  gap: 30px;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.profile-img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid #eee;
-}
-
-.name {
-  font-size: 2.5rem;
-  margin-bottom: 10px;
-  color: #111;
-}
-
-.quote {
-  font-style: italic;
-  font-size: 1.1rem;
-  color: #555;
-  max-width: 400px;
 }
 
 .container {
@@ -48,27 +12,80 @@ header.hero {
   padding: 20px;
 }
 
+.profile-row {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 3px solid #ccc;
+}
+
+.info {
+  flex: 1;
+}
+
+.info h1 {
+  margin-bottom: 10px;
+  font-size: 2rem;
+  color: #111;
+}
+
+.links {
+  margin-bottom: 15px;
+}
+
+.links a {
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #0056b3;
+}
+
+.links a i {
+  margin-right: 5px;
+}
+
+.cv-button {
+  padding: 8px 15px;
+  background: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.cv-button:hover {
+  background: #003e88;
+}
+
+.education-row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.edu-dates {
+  text-align: right;
+}
+
 section {
-  margin: 2rem 0;
   background: #fff;
-  padding: 25px;
-  border-radius: 8px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
 
-h1, h2, h3 {
-  color: #222;
-}
-
-a {
-  color: #0056b3;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.project {
-  margin-bottom: 30px;
+h2 {
+  margin-bottom: 10px;
 }
