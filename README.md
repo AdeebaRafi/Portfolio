@@ -9,7 +9,11 @@ It is a simple and clean website that includes sections like **Home**, **About**
 - About section with a short intro  
 - Gallery with images  
 - Contact form  
-- Footer with copyright  
+- Footer with copyright
+- 
+##  Live Demo
+[Click here to view the website]([https://yourusername.github.io/your-repo-name/](https://adeebarafi.github.io/Portfolio/)
+
 
 ### Purpose
 This project was made just to practice and understand the basics of web design — how layouts, images, and text work together on a webpage.
@@ -20,6 +24,7 @@ This project was made just to practice and understand the basics of web design �
 - Bootstrap 5  
 
 ### Note
-I am still learning web development, so this project might not be perfect — but it’s a step forward in my learning journey.  
+I created this while practicing basic layout, navigation, and design.
+I am still learning web development, so this project might not be perfect, but it’s a step forward in my learning journey.  
 If you notice something off or think it can be improved, I’m open to learning from your feedback.
 
