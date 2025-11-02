@@ -12,7 +12,7 @@ It is a simple and clean website that includes sections like **Home**, **About**
 - Footer with copyright
 - 
 ##  Live Demo
-[Click here to view the website]([https://yourusername.github.io/your-repo-name/](https://adeebarafi.github.io/Portfolio/)
+[Click here to view the website](https://adeebarafi.github.io/Portfolio.github.io/)
 
 
 ### Purpose
