@@ -10,7 +10,11 @@ It is a simple and clean website that includes sections like **Home**, **About**
 - Gallery with images  
 - Contact form  
 - Footer with copyright
-- 
+-
+   <img width="993" height="575" alt="Screen Shot 2025-11-02 at 9 46 20 PM" src="https://github.com/user-attachments/assets/d03f083b-d860-42bd-b895-40e04ae9faba" />
+
+<img width="1144" height="708" alt="Screen Shot 2025-11-02 at 9 48 28 PM" src="https://github.com/user-attachments/assets/340fd90d-0d08-4e88-9632-673d457f9fcd" />
+
 ##  Live Demo
 [Click here to view the website](https://adeebarafi.github.io/Portfolio.github.io/)
 
